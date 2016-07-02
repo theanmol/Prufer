@@ -1,0 +1,7 @@
+code is written in java
+
+Input: Random number n is generated, and then a random sequence of length n is generated which will be the prufer sequence having range 0 to n+1.The limit for n is 30.
+       
+
+Output:A tree coresponding to the prufer sequence is generated having n+2 nodes proving that all sequences are valid prufer sequences.
+The degree of all the  nodes is also generated and wether the tree is binary or not is also displayed.
